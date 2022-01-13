@@ -1,6 +1,9 @@
 ### Hi there, I am Bartek 👋
 
-I am currently learning programming. I love to learn it wherever possible, I  complete couple web courses, eg Harvard CS50, and I am also a student of Software development methods at the AGH University of Science and Technology (postgraduate studies). 
+I am currently learning programming. I love to learn it wherever possible, I  complete couple web courses, eg Harvard CS50, and I am also a student of Software development methods at the AGH University of Science and Technology (postgraduate studies).
+
+📫 [E-mail](mailto:bmikler@protonmail.com)
+
 
 ### Primary technologies.
 
@@ -11,8 +14,7 @@ I am currently learning programming. I love to learn it wherever possible, I  co
 * Mockito
 * SQL
 
-<br/>
-<br/>
+
 I also tried other technologies. Example projects below.
 
 ### [Network](https://github.com/bmikler/Network) - Twiter llike social media app.
@@ -20,6 +22,11 @@ I also tried other technologies. Example projects below.
 
 ### [Mail](https://github.com/bmikler/Mail) - Frontend for mail Client.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+
+
+
+
 
 <!--
 **bmikler/bmikler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
