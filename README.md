@@ -2,7 +2,7 @@
 
 I am currently learning programming. I love to learn it wherever possible, I  complete couple web courses, eg Harvard CS50, and I am also a student of Software development methods at the AGH University of Science and Technology (postgraduate studies).
 
-📫 [E-mail](mailto:bmikler@protonmail.com)
+📫 [Contact me](mailto:bmikler@protonmail.com)
 
 
 ### Primary technologies.
