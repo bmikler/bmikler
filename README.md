@@ -1,6 +1,6 @@
 ### Hi there, I am Bartek 👋
 
-I am currently learning programming. I love to learn it wherever possible, I  complete couple web courses, eg Harvard CS50, and I am also a student of Software development methods at the AGH University of Science and Technology (postgraduate studies).
+I am currently learning programming. I love to learn it wherever possible, I completed couple web courses, eg Harvard CS50, and I am also a student of Software development methods at the AGH University of Science and Technology (postgraduate studies).
 
 📫 [Contact me](mailto:bmikler@protonmail.com)
 
