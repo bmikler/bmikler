@@ -8,7 +8,10 @@ I am currently learning programming. I love to learn it wherever possible, I com
 ### Primary technologies.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
 * Java
+* Spring (Boot, Data, MVC)
 * JPA(Hibernate)
 * Junit5
 * Mockito
