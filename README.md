@@ -17,6 +17,11 @@ I am currently learning programming. I love to learn it wherever possible, I com
 * Mockito
 * SQL
 
+### Java projects
+
+### [Foodie app](https://github.com/bmikler/foodieapp) - Spring Web application for ordering food.
+### [Rental app](https://github.com/bmikler/Rental) - Console App to simulate rental service.
+
 
 I also tried other technologies. Example projects below.
 
