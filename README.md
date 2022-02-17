@@ -19,8 +19,8 @@ I am currently learning programming. I love to learn it wherever possible, I com
 
 ### Java projects
 
+### [Equipy](https://github.com/bmikler/java-rest-api) - Java/Spring REST API.
 ### [Foodie app](https://github.com/bmikler/foodieapp) - Spring Web application for ordering food.
-### [RestApi](https://github.com/bmikler/java-rest-api) - First contact with rest API.
 ### [Photos](https://github.com/bmikler/java-photos) - Data model for social app made with Hibernate.
 ### [Rental app](https://github.com/bmikler/Rental) - Console App to simulate rental service.
 
