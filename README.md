@@ -14,7 +14,7 @@
 
 ### Java projects
 
-### [Enroller}(https://github.com/bmikler/agh-mwo-enroller) - Java/Spring app to manange meetings and participants.
+### [Enroller](https://github.com/bmikler/agh-mwo-enroller) - Java/Spring app to manange meetings and participants.
 ### [Recipe](https://github.com/bmikler/java-recipe) - JetBrain Acadamy recpie project, REST API with Spring Data and Spring Security
 ### [Equipy](https://github.com/bmikler/java-rest-api) - Java/Spring REST API.
 ### [Foodie app](https://github.com/bmikler/foodieapp) - Spring Web application for ordering food.
