@@ -1,10 +1,5 @@
 ### Hi there, I am Bartek 👋
 
-I am currently learning programming. I love to learn it wherever possible, I completed couple web courses, eg Harvard CS50, and I am also a student of Software development methods at the AGH University of Science and Technology (postgraduate studies).
-
-📫 [Contact me](mailto:bmikler@protonmail.com)
-
-
 ### Primary technologies.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -19,10 +14,10 @@ I am currently learning programming. I love to learn it wherever possible, I com
 
 ### Java projects
 
+### [Enroller}(https://github.com/bmikler/agh-mwo-enroller) - Java/Spring app to manange meetings and participants.
 ### [Recipe](https://github.com/bmikler/java-recipe) - JetBrain Acadamy recpie project, REST API with Spring Data and Spring Security
 ### [Equipy](https://github.com/bmikler/java-rest-api) - Java/Spring REST API.
 ### [Foodie app](https://github.com/bmikler/foodieapp) - Spring Web application for ordering food.
-### [Rental app](https://github.com/bmikler/Rental) - Console App to simulate rental service.
 
 
 I also tried other technologies. Example projects below.
